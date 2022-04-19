@@ -15,7 +15,7 @@ module.exports = {
   staging: {
     client: 'postgresql',
     connection: {
-      host: '192.168.1.10',
+      host: '192.168.1.11',
       port: '5432',
       database: 'postgres',
       user:     'postgres',
